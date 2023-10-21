@@ -33,11 +33,23 @@ body {
 
 /* isi */
 
-.isi {
+/* .isi {
   width: 500px;
   margin: 0 auto;
   text-align: center;
   margin-top: 100px !important;
+} */
+
+.isi {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  width: 350px;
+  text-align: center;
+}
+
+.container {
 }
 
 .isi h1 {
