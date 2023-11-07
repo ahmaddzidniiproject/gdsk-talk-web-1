@@ -45,11 +45,8 @@ body {
   align-items: center;
   justify-content: center;
   margin: 0 auto;
-  width: 350px;
+  width: 400px;
   text-align: center;
-}
-
-.container {
 }
 
 .isi h1 {
@@ -83,7 +80,6 @@ body {
 }
 
 .footer {
-  position: absolute;
   width: 100%;
-  bottom: 0;
+  margin-top: 5rem;
 }
